@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aloha!
+title: Why you no!
 ---
 This week on CS373, featuring the marvelous project - Collatz! To be honest, solving the problem itself isn't difficult at all, but I know that professor Downing won't give us such meaningless assignment. I know that when I first look at the requirement page.
 
