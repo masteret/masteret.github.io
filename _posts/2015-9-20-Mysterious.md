@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk talk
+title: Mysterious
 ---
 Just half month after school started, I have already started to study late at night. It is clearly not a good thing to do because I am losing quiz points in class. At first I thought since I audited the course last semester, the quizzes shouldn't be hard, but I was wrong, definitely wrong.
 
