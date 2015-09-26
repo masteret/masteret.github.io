@@ -1,3 +1,7 @@
+---
+layout: post
+title: Not Yet Done
+---
 Project Netflix is finished. Career Fair is finished. But it doesn't mean my job is done here. I am getting used to the way that project needs to be implemented. Pair programming is absolutely a great idea. With a partner sitting next to you, you will 1) implement things faster (no facebooking/9gaging) 2) Know structure clearer because you need to explain to him about what you are doing 3) debug faster because the chance of both of you miss the bug is far lower than you miss your own bug.
 
 I was not comfortable with a partner sitting next to me at first. But eventually you mind will submerge into the code (or, in zone) and you won't even care about it. Every time we finished a feature and tested it correctness. We high-five and take a rest, talked about school/class. I realized that time passed very fast and the "hangover" after you work in zone is satisfying.
